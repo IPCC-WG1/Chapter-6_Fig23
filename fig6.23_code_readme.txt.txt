@@ -1,0 +1,30 @@
+
+
+Documentation
+
+Data: GSAT changes due to regional changes in anthropogenic SLCF emissions under the SSPs. 
+ 
+Software for figure production: IDL version 8.3
+Output 
+ARCH           'x86_64'
+OS             'linux'
+OS_FAMILY      'unix'
+OS_NAME        'linux'
+RELEASE        '8.3'
+BUILD_DATE     'Nov 15 2013'
+MEMORY_BITS     64
+
+
+Reference: 
+Lund, M. T., Aamaas, B., Stjern, C. W., Klimont, Z., Berntsen, T. K., and Samset, B. H.: 
+A continued role of short-lived climate forcers under the Shared Socioeconomic Pathways, 
+Earth Syst. Dynam., 11, 977–993, https://doi.org/10.5194/esd-11-977-2020, 2020.
+
+Full underlying dataset available from Figshare: 
+https://doi.org/10.6084/m9.figshare.11386455 (temperatureResponse_region_sector_species_CEDS_SSP_1900-2100_wCCf.nc) 
+
+
+Contact:
+Marianne T. Lund, m.t.lund@cicero.oslo.no 
+
+
